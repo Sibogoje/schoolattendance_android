@@ -1,0 +1,11 @@
+<!-- bottom_navigation_menu.xml -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/faculty_nav_attendance"
+        android:icon="@android:drawable/ic_menu_agenda"
+        android:title="Manage" />
+    <item
+        android:id="@+id/faculty_nav_notifications"
+        android:icon="@android:drawable/ic_menu_myplaces"
+        android:title="Notifications" />
+</menu>

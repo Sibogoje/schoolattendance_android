@@ -1,0 +1,20 @@
+<!-- activity_login.xml -->
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#f8f8f8"
+    tools:ignore="MissingDefaultResource">
+
+    <!-- Fingerprint Login View -->
+    <include layout="@layout/fingerprint_login_view"
+        android:id="@+id/fingerprintLoginView"
+        android:visibility="visible"/>
+
+    <!-- Student Login View -->
+    <include layout="@layout/student_login_view"
+        android:id="@+id/studentLoginView"
+        android:visibility="gone"/>
+
+</FrameLayout>

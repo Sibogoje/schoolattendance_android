@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">School Attendance</string>
+    <string name="todo">TODO</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="login">Login</string>
+    <string name="add_class">Add Class</string>
+    <string name="profile">Profile</string>
+    <string name="enrolled">Enrolled</string>
+    <string name="school_attandance">School Attendance</string>
+
+</resources>

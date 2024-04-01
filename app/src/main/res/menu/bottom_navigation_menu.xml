@@ -1,0 +1,9 @@
+<!-- bottom_navigation_menu.xml -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_attendance"
+        android:icon="@drawable/icons8_approved_64"
+        android:title="@string/enrolled" />
+
+
+</menu>
